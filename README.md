@@ -6,6 +6,7 @@ This project consists of different matrix multiplication algorithms and tools fo
 
 Build with cmake:
 ```
+cd src
 cmake .
 cmake --build .
 ```
@@ -18,4 +19,4 @@ Run:
 
 ## Credits
 * Miha Eleršič: article, initial work
-* Mitja Rozman: article, initial work
+* Mitja Rozman: article, initial work 
